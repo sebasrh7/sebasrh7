@@ -1,3 +1,4 @@
+<h1 align="center">Hola 👋, Soy Sebastian</h1>
 # Hola, Soy @sebasrh7 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy Sebastian Rengifo, un apasionado de la programación y la tecnología. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde pequeños scripts hasta aplicaciones más completas.
