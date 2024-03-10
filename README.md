@@ -3,6 +3,29 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Sebastian Rengifo, un apasionado de la programación y la tecnología. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde pequeños scripts hasta aplicaciones más completas.
 
+````js
+const sebastian = {
+    pronouns: "he" | "him",
+    code: ["Javascript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["bootstrap", "materialize", "tailwind"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            database: ["mongo", "firebase"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        misc: ["Firebase", "Socket.IO", "PWA", "WebRTC"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing a web application for a startup",
+    funFact: "I love coffee and code"
+};
+````
+
 ## Sobre mí
 
 - 💻 Ingeniero en sistemas.
