@@ -15,7 +15,7 @@ const sebastian = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap", "materialize", "tailwind"]
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
