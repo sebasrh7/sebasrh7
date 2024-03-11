@@ -1,7 +1,13 @@
-<h1 align="center">Hola 👋, Soy Sebastian</h1>
-# Hola, Soy @sebasrh7 👋
+<h1> Hi, I'm Sebastian Rengifo Hidalgo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-¡Bienvenido a mi perfil de GitHub! Soy Sebastian Rengifo, un apasionado de la programación y la tecnología. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde pequeños scripts hasta aplicaciones más completas.
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.univalle.edu.co/">Universidad del Valle</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+
+[![Linkedin: Sebastian](https://img.shields.io/badge/-sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-rengifo-hidalgo-6368942b9/)](https://www.linkedin.com/in/sebastian-rengifo-hidalgo-6368942b9/)
+[![GitHub Sebastian](https://img.shields.io/github/followers/sebasrh7?label=follow&style=social)](https://github.com/sebasrh7)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ````js
 const sebastian = {
@@ -25,21 +31,6 @@ const sebastian = {
     funFact: "I love coffee and code"
 };
 ````
-
-## Sobre mí
-
-- 💻 Ingeniero en sistemas.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
-- 📫 Puedes contactarme en [sebastianrengifohidalgo@gmail.com](mailto:sebastianrengifohidalgo@gmail.com).
-- 😄 Pronombres: Él/Él
-
-## Proyectos Destacados
-
-- [Proyecto 1](link_al_proyecto): Una breve descripción del proyecto.
-- [Proyecto 2](link_al_proyecto): Otra breve descripción del proyecto.
-- [Proyecto 3](link_al_proyecto): Breve descripción del proyecto.
-
-¡No dudes en explorar mis proyectos y contáctame si tienes alguna pregunta o sugerencia!
 
 <!---
 sebasrh7/sebasrh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
